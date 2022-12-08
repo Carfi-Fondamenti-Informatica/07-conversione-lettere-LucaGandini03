@@ -4,6 +4,7 @@ bool checkimput(int x){
     return true;
   else
     return false;
+}
   char conversione (char x){
     char ris;
   if(x>='A' && x<='Z')
